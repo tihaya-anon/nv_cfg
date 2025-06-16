@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 return {
     "saghen/blink.cmp",
     version = "*",
